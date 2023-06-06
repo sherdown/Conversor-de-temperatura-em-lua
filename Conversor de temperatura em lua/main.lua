@@ -3,12 +3,12 @@ conversor = require ("zConversores")
 print("Conversor de Unidades")
 
 print([[Qual Conversor voce quer usar primeiro?
-1 = Celsius para fahrenheit
+1 = Celsius para Fahrenheit
 2 = Fahrenheit para Celsius
 3 = Celsius para Kelvin
 4 = Kelvin para Celcius
-5 = fahrenheit para Kelvin
-6 = Kelvin para fahrenheit]])
+5 = Fahrenheit para Kelvin
+6 = Kelvin para Fahrenheit]])
 
 escolha = tonumber(io.read())
 
